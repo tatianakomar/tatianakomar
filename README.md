@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tatiana</h1>
 <h3 align="center">A full-stack developer</h3>
 
-- 🔭 I’m currently working on **October Code Jam**
+- 🔭 I’m currently working on **October Hackathon by Practicum by Yandex**
 
 - 🌱 I’m currently learning **React and Javascript**
 
