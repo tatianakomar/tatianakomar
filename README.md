@@ -1,4 +1,4 @@
-<<h1 align="center">Hi 👋, I'm Tatiana</h1>
+<h1 align="center">Hi 👋, I'm Tanya</h1>
 
 <h3 align="center">A full-stack developer</h3>
 
@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently looking for a job
 
-- 🌱 I’m currently learning **React and Javascript**
+- 🌱 I’m currently learning **UX Design**
 
 
 
